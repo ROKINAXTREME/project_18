@@ -1,1 +1,6 @@
-# project_18
+In the class we made a tic-tac-toe game with loops and the board came out a little bad because of the loops, but the game still works. It randomized the symbols (X and O) instead of the board looking like this,  |  |                                                                                                                                                                          --+--+--                                                                                                                                                                          |  |                                                                                                                                                                          --+--+--                                                                                                                                                                          |  |   , it looked like  | | 
+                                                                 ---------
+                                                                  | | 
+                                                                 ---------
+                                                                  | | 
+                                                                 ---------, so that was the only flaws, but everything else worked perfectly!
